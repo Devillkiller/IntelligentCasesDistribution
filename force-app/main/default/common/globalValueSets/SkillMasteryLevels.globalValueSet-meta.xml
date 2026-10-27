@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>1</fullName>
+        <default>false</default>
+        <label>Novice</label>
+    </customValue>
+    <customValue>
+        <fullName>2</fullName>
+        <default>false</default>
+        <label>Intermediate</label>
+    </customValue>
+    <customValue>
+        <fullName>3</fullName>
+        <default>false</default>
+        <label>Proficient</label>
+    </customValue>
+    <customValue>
+        <fullName>4</fullName>
+        <default>false</default>
+        <label>Expert</label>
+    </customValue>
+    <customValue>
+        <fullName>5</fullName>
+        <default>false</default>
+        <label>Authority</label>
+    </customValue>
+    <description>A list of mastery levels aligned with business needs.</description>
+    <masterLabel>Skill Mastery Levels</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

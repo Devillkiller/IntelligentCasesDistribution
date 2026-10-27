@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mastery__c</fullName>
+    <description>Indicates the user’s level of expertise for the selected skill.</description>
+    <inlineHelpText>Choose the level that best describes the user&apos;s proficiency in the selected skill. Higher mastery levels indicate stronger expertise and greater suitability for complex issues.</inlineHelpText>
+    <label>Mastery</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>SkillMasteryLevels</valueSetName>
+    </valueSet>
+</CustomField>

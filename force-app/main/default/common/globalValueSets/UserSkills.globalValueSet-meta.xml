@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>API Integration</fullName>
+        <default>false</default>
+        <label>API Integration</label>
+    </customValue>
+    <customValue>
+        <fullName>Data Import &amp; Export</fullName>
+        <default>false</default>
+        <label>Data Import &amp; Export</label>
+    </customValue>
+    <customValue>
+        <fullName>User Access &amp; Permissions</fullName>
+        <default>false</default>
+        <label>User Access &amp; Permissions</label>
+    </customValue>
+    <customValue>
+        <fullName>Workflow Automation</fullName>
+        <default>false</default>
+        <label>Workflow Automation</label>
+    </customValue>
+    <customValue>
+        <fullName>Email Deliverability</fullName>
+        <default>false</default>
+        <label>Email Deliverability</label>
+    </customValue>
+    <customValue>
+        <fullName>Case Escalation Handling</fullName>
+        <default>false</default>
+        <label>Case Escalation Handling</label>
+    </customValue>
+    <customValue>
+        <fullName>UI Customization</fullName>
+        <default>false</default>
+        <label>UI Customization</label>
+    </customValue>
+    <customValue>
+        <fullName>Reporting &amp; Dashboards</fullName>
+        <default>false</default>
+        <label>Reporting &amp; Dashboards</label>
+    </customValue>
+    <customValue>
+        <fullName>Data Security</fullName>
+        <default>false</default>
+        <label>Data Security</label>
+    </customValue>
+    <customValue>
+        <fullName>Mobile App Support</fullName>
+        <default>false</default>
+        <label>Mobile App Support</label>
+    </customValue>
+    <customValue>
+        <fullName>Apex Programming</fullName>
+        <default>false</default>
+        <label>Apex Programming</label>
+    </customValue>
+    <customValue>
+        <fullName>Apex Unit Testing</fullName>
+        <default>false</default>
+        <label>Apex Unit Testing</label>
+    </customValue>
+    <customValue>
+        <fullName>Integrations Architecture</fullName>
+        <default>false</default>
+        <label>Integrations Architecture</label>
+    </customValue>
+    <customValue>
+        <fullName>Data Modeling (Technical)</fullName>
+        <default>false</default>
+        <label>Data Modeling (Technical)</label>
+    </customValue>
+    <customValue>
+        <fullName>DevOps &amp; CI/CD</fullName>
+        <default>false</default>
+        <label>DevOps &amp; CI/CD</label>
+    </customValue>
+    <customValue>
+        <fullName>Lightning Web Components</fullName>
+        <default>false</default>
+        <label>Lightning Web Components</label>
+    </customValue>
+    <customValue>
+        <fullName>Debugging &amp; Logs</fullName>
+        <default>false</default>
+        <label>Debugging &amp; Logs</label>
+    </customValue>
+    <customValue>
+        <fullName>Performance &amp; Limits</fullName>
+        <default>false</default>
+        <label>Performance &amp; Limits</label>
+    </customValue>
+    <customValue>
+        <fullName>Salesforce APIs</fullName>
+        <default>false</default>
+        <label>Salesforce APIs</label>
+    </customValue>
+    <customValue>
+        <fullName>Data Management</fullName>
+        <default>false</default>
+        <label>Data Management</label>
+    </customValue>
+    <customValue>
+        <fullName>Security Model</fullName>
+        <default>false</default>
+        <label>Security Model</label>
+    </customValue>
+    <customValue>
+        <fullName>Code Quality &amp; Refactoring</fullName>
+        <default>false</default>
+        <label>Code Quality &amp; Refactoring</label>
+    </customValue>
+    <customValue>
+        <fullName>Change Management</fullName>
+        <default>false</default>
+        <label>Change Management</label>
+    </customValue>
+    <customValue>
+        <fullName>User Training &amp; Support</fullName>
+        <default>false</default>
+        <label>User Training &amp; Support</label>
+    </customValue>
+    <customValue>
+        <fullName>Knowledge Management</fullName>
+        <default>false</default>
+        <label>Knowledge Management</label>
+    </customValue>
+    <customValue>
+        <fullName>Object &amp; Field Configuration</fullName>
+        <default>false</default>
+        <label>Object &amp; Field Configuration</label>
+    </customValue>
+    <customValue>
+        <fullName>Case Management</fullName>
+        <default>false</default>
+        <label>Case Management</label>
+    </customValue>
+    <customValue>
+        <fullName>Omni-Channel Routing</fullName>
+        <default>false</default>
+        <label>Omni-Channel Routing</label>
+    </customValue>
+    <customValue>
+        <fullName>Flow Automation</fullName>
+        <default>false</default>
+        <label>Flow Automation</label>
+    </customValue>
+    <description>A list of skills aligned with business needs.</description>
+    <masterLabel>User Skills</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

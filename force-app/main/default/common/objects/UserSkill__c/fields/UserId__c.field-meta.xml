@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>UserId__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>The Salesforce user who possesses this skill.</description>
+    <inlineHelpText>Specify the user who has the skill listed in this record.</inlineHelpText>
+    <label>User Name</label>
+    <referenceTo>User</referenceTo>
+    <relationshipName>UserSkills</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>
